@@ -1,0 +1,7 @@
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+user.name=ErickMejia139
+user.email=up190139@alumnos.upa.edu.mx
+core.editor="C:\Users\erick\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
