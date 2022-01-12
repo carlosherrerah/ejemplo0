@@ -1,0 +1,7 @@
+user.username=dulce
+user.email=up190817@alumnos.upa.edu.mx
+user.name=WConanSantacruz
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
