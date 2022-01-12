@@ -1,0 +1,7 @@
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+user.name=Allcharmian
+user.email=rafagasolar@gmail.com
+core.editor="C:\Users\Windows 8.1\AppData\Local\Programs\Microsoft VS Code\Code.exe" --wait
