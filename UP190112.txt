@@ -1,0 +1,10 @@
+user.email=up190112@alumnos.upa.edu.mx
+user.name=AndrikRomo
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/carlosherrerah/ejemplo0.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
